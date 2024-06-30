@@ -17,7 +17,7 @@ export default () => {
   return (
     <TamaguiProvider config={tamaguiConfig}>
       <Stack>
-        <Stack.Screen name="(tabs)" options={{ headerShown: false }} />
+        <Stack.Screen name="index" options={{ headerShown: false }} />
       </Stack>
     </TamaguiProvider>
   );

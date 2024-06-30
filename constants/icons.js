@@ -1,5 +1,5 @@
-import network from "../assets/icons/network-wired-solid.svg"
+// import name from "path"
 
-export default {
-    network
-}
+// export default {
+//     name
+// }
